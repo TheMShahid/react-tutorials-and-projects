@@ -4,7 +4,7 @@ import "./index.css";
 import CarList from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-const SectionTitle = () => <h1 className="title">Tesla Vehicles</h1>;
+const SectionTitle = () => <h1 className="title">Best Mobile Phones</h1>;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
