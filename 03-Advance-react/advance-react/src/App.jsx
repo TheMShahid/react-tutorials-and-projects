@@ -1,12 +1,10 @@
-import Example from "./tutorial/04-project-structure/starter/Example";
+import LowerStateHook from "./tutorial/11-performance/starter/03-hook";
 
 function App() {
   return (
-    <>
-      <div className="container">
-        <Example />
-      </div>
-    </>
+    <div className="container">
+      <LowerStateHook />
+    </div>
   );
 }
 
