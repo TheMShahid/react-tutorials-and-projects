@@ -1,4 +1,4 @@
-import Wrapper from "../../assets/wrappers/Navbar";
+import Wrapper from "../assets/wrappers/Navbar";
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
